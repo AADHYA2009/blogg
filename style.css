@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    
+}
+#APP {
+    background-color: deeppink;
+    height: 800px;
+    width: 100%;
+}
+#GAME {
+    background-color: fuchsia;
+    height: 800px;
+    width: 100%;
+}
+#CHATBOT {
+    background-color: crimson;
+    height: 800px;
+    width: 100%;
+}
